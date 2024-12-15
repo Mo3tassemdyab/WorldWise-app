@@ -7,6 +7,7 @@ You travel the world. WorldWise keeps track of your adventures. A world map that
 # ScreenShots
 ![world1](https://github.com/user-attachments/assets/ac83859b-bcfe-4a0d-b492-1bb76341c5cd)
 
+![world2](https://github.com/user-attachments/assets/ce2fed6e-e458-45b0-84e5-39f82110cb48)
 
 
 

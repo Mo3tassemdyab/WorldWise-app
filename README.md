@@ -1,5 +1,5 @@
 # WorldWise-App
-
+You travel the world. WorldWise keeps track of your adventures. A world map that tracks your footsteps into every city you can think of.
 
 
 # React + Vite

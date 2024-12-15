@@ -5,6 +5,25 @@ You travel the world. WorldWise keeps track of your adventures. A world map that
 ### data.json ===> http://localhost:9000/cities
 
 # ScreenShots
+![world1](https://github.com/user-attachments/assets/ac83859b-bcfe-4a0d-b492-1bb76341c5cd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

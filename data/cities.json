@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "c7a7",
+      "cityName": "Cysoing",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-08T14:50:28.711Z",
+      "notes": "test",
+      "position": {
+        "lat": "50.58416932989255",
+        "lng": "3.2299804687500004"
+      }
+    },
+    {
+      "id": "3d98",
+      "cityName": "Caceres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-08T14:50:47.155Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.352664838868826",
+        "lng": "-6.39404296875"
+      }
+    }
+  ]
+}
